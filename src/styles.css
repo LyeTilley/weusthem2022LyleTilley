@@ -1,0 +1,25 @@
+* {
+    background-color: rgb(152, 158, 172);
+    text-decoration: bold;
+}
+
+.btn-danger {
+    background-color: rgb(37, 21, 21) !important;
+}
+
+.btn-primary, .btn-outline-dark {
+    background-color: green !important;
+}
+
+.mr-1, .mx-1 {
+    margin-left: 220px !important;
+}
+
+
+@media only screen and (max-width:320px)  {
+
+    html, th {
+     max-width: 60%;
+    
+    }
+  }
